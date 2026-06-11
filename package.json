@@ -1,0 +1,55 @@
+{
+  "name": "sheet-formula-builders",
+  "version": "0.1.0",
+  "description": "Deterministic Excel and Google Sheets formula builders extracted from SheetFormulaTools.",
+  "type": "module",
+  "license": "MIT",
+  "sideEffects": false,
+  "homepage": "https://sheetformulatools.top/formulas/sumifs-between-dates/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wenghuiming1987/sheet-formula-builders.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wenghuiming1987/sheet-formula-builders/issues"
+  },
+  "keywords": [
+    "excel",
+    "google-sheets",
+    "spreadsheet",
+    "formula",
+    "sumifs",
+    "xlookup",
+    "query",
+    "filter"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js"
+    }
+  },
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "clean:appledouble": "find . -name '._*' -type f -exec rm -f {} +",
+    "prebuild": "npm run clean:appledouble",
+    "build": "tsc -p tsconfig.json",
+    "postbuild": "npm run clean:appledouble",
+    "pretest": "npm run clean:appledouble",
+    "test": "vitest run",
+    "prepack": "npm run build && npm test"
+  },
+  "devDependencies": {
+    "typescript": "^5.8.3",
+    "vitest": "^3.1.2"
+  }
+}
