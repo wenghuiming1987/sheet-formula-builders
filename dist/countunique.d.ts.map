@@ -1,0 +1,1 @@
+{"version":3,"file":"countunique.d.ts","sourceRoot":"","sources":["../src/countunique.ts"],"names":[],"mappings":"AAEA,MAAM,MAAM,kBAAkB,GAAG;IAC/B,KAAK,EAAE,MAAM,CAAC;IACd,YAAY,CAAC,EAAE,OAAO,CAAC;IACvB,iBAAiB,CAAC,EAAE,OAAO,CAAC;CAC7B,CAAC;AAMF,wBAAgB,mCAAmC,CAAC,OAAO,EAAE,kBAAkB,GAAG,MAAM,CAKvF;AAED,wBAAgB,4BAA4B,CAAC,OAAO,EAAE,kBAAkB,GAAG,MAAM,CAKhF"}

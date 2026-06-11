@@ -1,0 +1,1 @@
+{"version":3,"file":"regexextract.d.ts","sourceRoot":"","sources":["../src/regexextract.ts"],"names":[],"mappings":"AAEA,MAAM,MAAM,gBAAgB,GAAG,QAAQ,GAAG,cAAc,GAAG,cAAc,GAAG,aAAa,GAAG,QAAQ,CAAC;AAErG,eAAO,MAAM,aAAa,EAAE,MAAM,CAAC,OAAO,CAAC,gBAAgB,EAAE,QAAQ,CAAC,EAAE,MAAM,CAK7E,CAAC;AAEF,wBAAgB,wBAAwB,CAAC,UAAU,EAAE,MAAM,EAAE,WAAW,EAAE,gBAAgB,EAAE,aAAa,SAAK,GAAG,MAAM,CAItH"}

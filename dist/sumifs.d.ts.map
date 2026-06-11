@@ -1,0 +1,1 @@
+{"version":3,"file":"sumifs.d.ts","sourceRoot":"","sources":["../src/sumifs.ts"],"names":[],"mappings":"AAAA,OAAO,EAAgD,KAAK,YAAY,EAAE,MAAM,cAAc,CAAC;AAE/F,MAAM,MAAM,aAAa,GAAG;IAC1B,QAAQ,EAAE,MAAM,CAAC;IACjB,QAAQ,EAAE,YAAY,EAAE,CAAC;IACzB,SAAS,CAAC,EAAE,OAAO,CAAC;CACrB,CAAC;AAEF,wBAAgB,kBAAkB,CAAC,OAAO,EAAE,aAAa,GAAG,MAAM,CAoBjE"}

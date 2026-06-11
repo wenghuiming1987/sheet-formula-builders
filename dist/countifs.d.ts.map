@@ -1,0 +1,1 @@
+{"version":3,"file":"countifs.d.ts","sourceRoot":"","sources":["../src/countifs.ts"],"names":[],"mappings":"AAAA,OAAO,EAAgD,KAAK,YAAY,EAAE,MAAM,cAAc,CAAC;AAE/F,MAAM,MAAM,eAAe,GAAG;IAC5B,QAAQ,EAAE,YAAY,EAAE,CAAC;CAC1B,CAAC;AAEF,wBAAgB,oBAAoB,CAAC,OAAO,EAAE,eAAe,GAAG,MAAM,CAMrE"}
