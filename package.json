@@ -46,6 +46,7 @@
     "postbuild": "npm run clean:appledouble",
     "pretest": "npm run clean:appledouble",
     "test": "vitest run",
+    "prepare": "npm run build",
     "prepack": "npm run build && npm test"
   },
   "devDependencies": {
